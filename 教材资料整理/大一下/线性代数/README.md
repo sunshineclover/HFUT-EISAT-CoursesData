@@ -25,8 +25,8 @@
 
 #### 资料
 
-- [往年试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%95%E5%8D%B7)
-- [习题册答案](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88)
+- 往年试卷
+- 习题册答案
 
 #### 网课资料
 

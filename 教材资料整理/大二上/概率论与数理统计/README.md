@@ -22,8 +22,8 @@
 
 #### 资料
 
-- [概率论习题册答案](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E4%B9%A0%E9%A2%98%E5%86%8C%E7%AD%94%E6%A1%88)
-- [部分期末试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E8%AF%95%E5%8D%B7)
+- 概率论习题册答案
+- 部分期末试卷
 
 #### 网课资料
 

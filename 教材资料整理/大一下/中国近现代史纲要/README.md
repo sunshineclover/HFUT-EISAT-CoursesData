@@ -18,7 +18,7 @@
 
 #### 资料
 
-- [考试复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E4%B8%AD%E5%9B%BD%E8%BF%91%E7%8E%B0%E4%BB%A3%E5%8F%B2%E7%BA%B2%E8%A6%81/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
+- 考试复习资料
 
 
 ## 考试说明

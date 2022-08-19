@@ -2,20 +2,32 @@
 
 ## 写在前面
 
-- 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
-- **Notion端的Web page**（推荐）：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
-- Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
-- Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
 - 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
-- **所有资料文件**会提供百度网盘，阿里云盘，123云盘，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，123云盘中**，若有其他好用的网盘欢迎联系我~ 
+
+- **仓库的资源页**：[温柔的风狮子的储藏室 (gentlewindlion.cn)](https://pan.gentlewindlion.cn/)
+
+- 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
+
+- Notion端的Web page：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
+
+- Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
+
+- Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
+
+- 学校内的用户可以通过校园网访问ftp://172.19.42.85/ 用户名classtest 密码test获取最新内容。
+
+- **所有资料文件**会提供百度网盘，阿里云盘，OneDrive，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，OneDrive中，同时只优先保证阿里云盘，百度网盘和OneDrive的实时更新。**，若有其他好用的网盘欢迎联系我~ 
+
 - 对于其他资料，可前往本人的另一个[**github仓库**](https://github.com/sunshineclover/Learning)查看~（**跟专业学习过程无关，主要是个人的学习资料记录**）
+
 - 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
+
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
+
 - 本仓库是纯个人资料收集项目。如果有需要补充的地方，欢迎提 issues 或者开discussions或者发邮件与我联系。 一起为仓库做点贡献~
+
 - 各个课程目录下的README.md文件模板已在主目录下给出，有兴趣贡献的同学可以按照这个格式进行填写。非常欢迎各位同学留下自己的课程评价，给后续学生参考~
-- 更推荐使用**Notion**的方式给每门课程提出评论/建议，甚至你也可以直接修改部分您觉得不适合的内容，当然了，这部分需要注册Notion账号。
-- **请学校内的用户通过校园网访问ftp://172.19.42.85/ 用户名classtest 密码test获取最新内容，以后github将不作为第一更新渠道，转为校园网更新。**
-- **请学校内的用户通过校园网访问ftp://172.19.42.85/ 用户名classtest 密码test获取最新内容，以后github将不作为第一更新渠道，转为校园网更新。**
+
 - **请学校内的用户通过校园网访问ftp://172.19.42.85/ 用户名classtest 密码test获取最新内容，以后github将不作为第一更新渠道，转为校园网更新。**
 
 
@@ -57,6 +69,8 @@
 - 大学体育（1）
 - 形势与政策（1）
 
+
+
 #### 大一下
 
 - 工程训练D
@@ -75,6 +89,8 @@
 - 大学体育（2）
 - 形势与政策（2）
 
+
+
 #### 大二上
 
 - 信号与系统B
@@ -87,6 +103,8 @@
 - 大学英语（3）
 - 大学体育（3）
 - 形势与政策（3）
+
+
 
 #### 大二下
 
@@ -106,15 +124,32 @@
 - 大学体育（4）
 - 中国文化概论
 
+
+
 #### 大三上
+
+- 数字系统综合设计
+- EDA实训
+- 单片机原理与应用
+- 单片机系统设计
+- 图像工程概论
+- 嵌入式操作系统
+- 形势与政策（5）
+- 微机原理
+- 微波技术
+- 微电子概论
+- 数字信号处理
+- 模拟电路课程设计
+- 空间信息处理基础
+- 通信电子线路
+
+
 
 #### 大三下
 
 #### 大四上
 
 #### 大四下
-
-
 
 
 
@@ -142,27 +177,29 @@
 
 大二下：https://www.aliyundrive.com/s/5kQTL3K9WWd
 
+大三上：https://www.aliyundrive.com/s/iLDGTzwuGKa
+
+其他课程：https://www.aliyundrive.com/s/3eq3CbpMUUp
 
 
-#### （3）蓝奏云
+
+#### （3）OneDrive
+
+存储**全部资料**的OneDrive链接：https://1drv.ms/u/s!Ag6ozdxbt6yikFcSFRwqIch5s0hn?e=oSYcXh
+
+
+
+#### （4）蓝奏云
 
 你可以在各个课程目录的md文件中找到**小于100M文件**的下载地址。
 
 
 
-#### （4）123云盘
-
-由热心同学推荐，目前与百度网盘/阿里云盘相同，存储了全部内容。
-
-存储**全部资料**的123云盘链接：https://www.123pan.com/s/Fyo9-65rJH
-
-提取密码：hfut
-
 
 
 ### 二.其他资料下载
 
-可以进入[**github仓库**](https://github.com/sunshineclover/Learning)**，阅读下载个人学习过程中总结的其他资料~
+可以进入[**github仓库**](https://github.com/sunshineclover/Learning)**或者[温柔的风狮子的储藏室 (gentlewindlion.cn)](https://pan.gentlewindlion.cn/)界面，阅读和下载个人学习过程中总结的其他资料~
 
 
 

@@ -26,14 +26,14 @@ https://wwn.lanzouo.com/b02uitgpg
 
 #### 资料：
 
-- [部分考试题库](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E9%83%A8%E5%88%86%E8%80%83%E8%AF%95%E9%A2%98%E5%BA%93)
-- [复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
-- [课程PPT](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80/PPT)
+- 部分考试题库
+- 复习资料
+- 课程PPT
 
 #### 网课资源：
 
-- [C语言网课 翁凯](https://www.bilibili.com/video/BV19W411B7w1?from=search&seid=7607065514498114842&spm_id_from=333.337.0.0)
-- [C++网课 黑马程序员](https://www.bilibili.com/video/BV1et411b73Z?from=search&seid=3978796311757211973&spm_id_from=333.337.0.0)
+- C语言网课 翁凯
+- C++网课 黑马程序员
 
 
 

@@ -12,8 +12,8 @@ Python数据分析、挖掘与可视化  人民邮电出版社 董付国
 
 ### 资料：
 
-- [PPT（2020版）](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Python%E8%AF%AD%E8%A8%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/PPT)
-- [课程作业](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Python%E8%AF%AD%E8%A8%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A)
+- PPT（2020版）
+- 课程作业
 
 #### 网课资源
 

@@ -34,14 +34,14 @@
 
 #### 资料
 
-- [高数上PPT（1-7章）](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8A%EF%BC%89/%E8%AF%BE%E4%BB%B6)
-- [高数上期末试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8A%EF%BC%89/%E8%AF%95%E5%8D%B7)
-- [部分课本习题参考答案+高数习题册参考答案](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8A%EF%BC%89/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88)
+- 高数上PPT（1-7章）
+- 高数上期末试卷
+- 部分课本习题参考答案+高数习题册参考答案
 
 #### 网课资源
 
-- [高数网课（宋浩）](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6A%EF%BC%88%E4%B8%8A%EF%BC%89/%E8%AF%95%E5%8D%B7)
-- [考研数学武忠祥 高等数学0基础课](https://www.bilibili.com/video/BV1gA411j7Ta?from=search&seid=16770140037550788727&spm_id_from=333.337.0.0)
+- 高数网课（宋浩）
+- 考研数学武忠祥 高等数学0基础课
 
 
 

@@ -10,8 +10,8 @@
 
 #### 资料
 
-- [复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E5%AD%A6%E8%AF%AD%E6%96%87/%E8%B5%84%E6%96%99)
-- [15-16期末试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E5%AD%A6%E8%AF%AD%E6%96%87/%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7)
+- 复习资料
+- 15-16期末试卷
 
 
 

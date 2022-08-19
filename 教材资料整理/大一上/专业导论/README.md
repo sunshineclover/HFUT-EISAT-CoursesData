@@ -8,7 +8,7 @@
 
 ## 本目录收录
 
-- [PPT->2020年版](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E4%B8%93%E4%B8%9A%E5%AF%BC%E8%AE%BA/PPT)
+- PPT->2020年版
 
 
 

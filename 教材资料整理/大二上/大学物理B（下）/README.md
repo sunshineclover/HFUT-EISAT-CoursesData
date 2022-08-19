@@ -24,9 +24,9 @@
 
 #### 资料
 
-- [试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%EF%BC%88%E4%B8%8B%EF%BC%89/%E8%AF%95%E5%8D%B7)
-- [复习资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%EF%BC%88%E4%B8%8B%EF%BC%89/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
-- [PPT](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%EF%BC%88%E4%B8%8B%EF%BC%89/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
+- 试卷
+- 复习资料
+- PPT
 
 #### 网课资料
 

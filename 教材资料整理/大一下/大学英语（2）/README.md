@@ -12,7 +12,7 @@
 
 #### 资料
 
-- [视听说（二）答案](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/blob/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%EF%BC%882%EF%BC%89/%E8%A7%86%E5%90%AC%E8%AF%B4%E7%AD%94%E6%A1%882%E6%9C%AC(1).pdf)
+- 视听说（二）答案
 
 
 

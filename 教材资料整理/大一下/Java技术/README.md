@@ -14,11 +14,11 @@ Java 实用教程 （第五版） 耿祥义 清华大学出版社
 
 #### 资料
 
-- [2020年上课使用的PPT](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Java%E6%8A%80%E6%9C%AF/PPT)
-- [期末试卷（部分）](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Java%E6%8A%80%E6%9C%AF/%E6%9C%9F%E6%9C%AB%E8%AF%95%E5%8D%B7)
-- [习题答案及源代码](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Java%E6%8A%80%E6%9C%AF/%E4%B9%A0%E9%A2%98%E7%AD%94%E6%A1%88)
-- [实验资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Java%E6%8A%80%E6%9C%AF/%E5%AE%9E%E9%AA%8C%E8%B5%84%E6%96%99)
-- [复习资料（一份笔记）](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/Java%E6%8A%80%E6%9C%AF/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
+- 2020年上课使用的PPT
+- 期末试卷（部分）
+- 习题答案及源代码
+- 实验资料
+- 复习资料（一份笔记）
 
 #### 网课资源
 

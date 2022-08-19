@@ -10,7 +10,7 @@
 
 #### 资料
 
-- [工程训练资料](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/blob/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%83D/%E5%B7%A5%E7%A8%8B%E8%AE%AD%E7%BB%83%E5%AE%9E%E4%B9%A0%E6%8A%A5%E5%91%8A%EF%BC%88%E6%A3%92%E6%A3%92%E7%B3%96%E7%89%88%EF%BC%89.pdf)
+- 工程训练资料
 
 
 

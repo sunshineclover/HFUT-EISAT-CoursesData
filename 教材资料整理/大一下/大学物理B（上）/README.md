@@ -24,7 +24,7 @@
 
 #### 资料
 
-- [部分期末试卷](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8B/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86B%EF%BC%88%E4%B8%8A%EF%BC%89/%E8%AF%95%E5%8D%B7)
+- 部分期末试卷
 
 #### 网课资料
 

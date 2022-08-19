@@ -10,8 +10,8 @@
 
 #### 资料
 
-- [军理部分习题](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E9%83%A8%E5%88%86%E4%B9%A0%E9%A2%98)
-- [教材PPT](https://github.com/sunshineclover/HFUT-EISAT-CoursesData/tree/main/%E6%95%99%E6%9D%90%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/%E5%A4%A7%E4%B8%80%E4%B8%8A/%E5%86%9B%E4%BA%8B%E7%90%86%E8%AE%BA/%E6%95%99%E6%9D%90ppt)
+- 军理部分习题
+- 教材PPT
 
 
 
