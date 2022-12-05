@@ -14,7 +14,7 @@
 
 - Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
 
-- 学校内的用户可以通过校园网访问ftp://172.19.42.84/ 用户名classtest 密码test获取最新内容。
+- 学校内的用户可以通过校园网访问ftp://172.19.42.146/ 用户名classtest 密码test获取最新内容。
 
 - **其他课程**文件夹**包括一些公选课和其他专业**（主要是计算机）的课程，与电信科正常的培养计划无关。请以**主目录的课程资料**作为参考~
 
