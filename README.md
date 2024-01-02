@@ -2,35 +2,21 @@
 
 ## 写在前面
 
-- 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱gentlewindlion@qq.com，立马删除~**
+- 本仓库主要收集宣区电信科上课所需要使用的资料，**若有版权问题可直接联系邮箱849935737@qq.com，立马删除~**
 
-- **仓库的资源页**：[温柔的风狮子的储藏室 (gentlewindlion.cn)](https://pan.gentlewindlion.cn/)
-
-- 仓库的Web page：https://sunshineclover.github.io/HFUT-EISAT-CoursesData/ 
-
-- Notion端的Web page：https://holy-parsley-de2.notion.site/e440a09d1f354fce99ef551319b3f021
-
-- Github仓库（更新频繁）链接为：https://github.com/sunshineclover/HFUT-EISAT-CoursesData
-
-- Gitee仓库链接为：https://gitee.com/gentlewindlion/hfut-eisat-courses-data
-
-- 学校内的用户可以通过校园网访问ftp://172.19.42.64/ 用户名classtest 密码test获取最新内容。
-
+- **仓库的资源页**：[温柔的风狮子的储藏室 (gentlewindlion.cn)](https://pan.gentlewindlion.cn/)，所有内容均可在该资源页观看。
+- 关于**考研/保研**的相关资料，**详见网盘中的对应板块：[温柔的风狮子的储藏室]([Study | 温柔的风狮子的储藏室 (gentlewindlion.cn)](https://pan.gentlewindlion.cn/Study))**，这里不与课程资料混在一起共享。
+- 关于**作业及实验报告**的相关资料，同样不在github仓库中与课程资料混在一起共享，**需要可见资源页**：[温柔的风狮子的储藏室](https://pan.gentlewindlion.cn/Study)~
+- 本网盘/资料目录将于**2024.08（毕业）正式到期**，**非常希望有学弟学妹能够继承资料并加入新的内容，让资料一直传承下去~**
+- 有感兴趣**一起共享资源的同学**可以联系我，QQ：849935737，请注明情况，谢谢~
 - **其他课程**文件夹**包括一些公选课和其他专业**（主要是计算机）的课程，与电信科正常的培养计划无关。请以**主目录的课程资料**作为参考~
-
-- **所有资料文件**会提供百度网盘，阿里云盘，OneDrive，蓝奏网盘链接，可自行前去下载~ **对于超过100m的大文件目前会传到百度网盘，阿里云盘，OneDrive中，同时只优先保证阿里云盘，百度网盘和OneDrive的实时更新。**，若有其他好用的网盘欢迎联系我~ 
-
-- 对于其他资料，可前往本人的另一个[**github仓库**](https://github.com/sunshineclover/Learning)查看~（**跟专业学习过程无关，主要是个人的学习资料记录**）
-
-- 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），欢迎各位在最后的课程评价区留言~
-
+- **所有资料文件**会提供百度网盘，OneDrive链接，可自行前去下载~ ，若有其他好用的网盘欢迎联系我~ 
+- 在每门课程的README.md下，都有着对这门学科的主观想法（考试说明，课程评价），**欢迎各位在最后的课程评价区留言**~
 - 主要目的是给后续学生提供一个参考资料和学习方法~ 为后续学生铺路~ 属于是为爱发电了~
-
 - 本仓库是纯个人资料收集项目。如果有需要补充的地方，欢迎提 issues 或者开discussions或者发邮件与我联系。 一起为仓库做点贡献~
-
 - 各个课程目录下的README.md文件模板已在主目录下给出，有兴趣贡献的同学可以按照这个格式进行填写。非常欢迎各位同学留下自己的课程评价，给后续学生参考~
 
-- **请学校内的用户通过校园网访问ftp://172.19.42.64/ 用户名classtest 密码test获取内容。**
+
 
 
 
@@ -160,9 +146,24 @@
 - 就业指导
 
 
+
 #### 大四上
 
+- 现代企业管理
+- 通信系统综合设计
+- 形势与政策（7）
+- 电子信息工程师实践
+
+
+
+
+
 #### 大四下
+
+- 毕业设计
+- 形势与政策（8）
+
+
 
 
 
@@ -178,23 +179,7 @@
 
 
 
-#### （2）阿里云盘
-
-由于数量过多，阿里云盘需要分文件夹分享。
-
-大一上：https://www.aliyundrive.com/s/8dw51Tn7HKX
-
-大一下：https://www.aliyundrive.com/s/uCxGSdwLsBS
-
-大二上：https://www.aliyundrive.com/s/4RE6w515mde
-
-大二下：https://www.aliyundrive.com/s/5kQTL3K9WWd
-
-大三上：https://www.aliyundrive.com/s/iLDGTzwuGKa
-
-大三下：https://www.aliyundrive.com/s/fnvtMezmN54
-
-其他课程：https://www.aliyundrive.com/s/3eq3CbpMUUp
+#### （2）阿里云盘（由于不支持多文件夹共享，暂不提供）
 
 
 
@@ -246,7 +231,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 *机器人课很多平时很忙, 没有时间协助上传者整理资源。提交前请先检查内容是否存在以下几种典型错误。防止因机器人拒绝PR请求导致资源无法合并到仓库。*
 
 - **上传规则:**
-  - GitHub平台上传规则为 `单个上传文件小于25MB(网页端)` 和 `单次上传文件总数小于100个` 。若要上传大于此限制的的单个文件可以压缩后发送文件至邮箱 gentlewindlion@qq.com 代为上传。
+  - GitHub平台上传规则为 `单个上传文件小于25MB(网页端)` 和 `单次上传文件总数小于100个` 。若要上传大于此限制的的单个文件可以压缩后发送文件至邮箱 849935737@qq.com 代为上传。
 
   - 仓库已开启LFS, 但当前仓库的LFS免费空间已满，增加额外空间需要额外成本。为了保持仓库的非盈利状态以维持独立运营，因此 `推荐` 最大单个文件的大小不大于100MB。
 
@@ -288,7 +273,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
     
     4. 提交 PR(Pull Request), 等待机器人@sunshineclover审核。
 
-你也可以发送邮件至 gentlewindlion@qq.com。仓库的维护者将会通过机器人进行不具名添加。
+你也可以发送邮件至 849935737@qq.com。仓库的维护者将会通过机器人进行不具名添加。
 
 
 
@@ -317,12 +302,10 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 ## 友情链接
 
 - [lib-hfut 贵校课程资料民间整理](https://github.com/lib-hfut/lib-hfut/)
-
 - [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 - [东南大学课程共享计划](https://github.com/zjdx1998/seucourseshare)
 - [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [上海交通大学课程资料分享](https://github.com/CoolPhilChen/SJTU-Courses/)
 - [HFUTXC生存指南](https://survive-hfutxc.github.io/#/ )
-- [Luorily：HFUT-ME-CoursesData](https://github.com/Luorily/HFUT-ME-CoursesData )
 
